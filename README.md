@@ -3,29 +3,29 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=express" height="42" alt="express logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="firebase logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="42" alt="supabase logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
 </div>
 
 ###
